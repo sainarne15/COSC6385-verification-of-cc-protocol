@@ -1,4 +1,4 @@
-# COSC6385-verification-of-cc-protocol
+# Verification-of-cc-protocol
 ## How to run the code:
 1. go to the src directory by **cd Murphi3.1/src**
 2. Then compile the Murphi using the command **make mu**   (make clean if already make was run)
